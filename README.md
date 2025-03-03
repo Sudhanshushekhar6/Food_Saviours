@@ -1,6 +1,6 @@
 # 🌍 Food Saviours 🍽️
 
-## 🌟 About the Project
+
 **Food Saviours** is a **tech-driven food donation and distribution platform** designed to **rescue surplus food** and deliver it to those in need. By leveraging technology, we connect food donors, volunteers, and recipients, ensuring no meal goes to waste. Our vision is to create a **hunger-free world** through innovation and community-driven efforts.
 
 ## 🚀 Key Features
